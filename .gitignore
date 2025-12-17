@@ -193,3 +193,6 @@ FakesAssemblies/
 
 /.sonarqube
 coverage.opencover.xml
+
+# JetBrains
+.idea/
